@@ -13,6 +13,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/EdwardGarciaTV/threat-hunting-scenario-tor)**
 - **[CTF Nimbus Health (Threat Hunt)](https://github.com/EdwardGarciaTV/Nimbus-Health-Threat-Hunt)**
 
+## STIG Implementation & Compliance
+- **[Windows 11 STIG - PowerShell Remediation](https://github.com/EdwardGarciaTV/STIGS)**
+
 <hr/>
 
 ## 🤳 Connect With Me
