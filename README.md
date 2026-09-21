@@ -1,4 +1,4 @@
-# Eduardo Garcia | Cybersecurity Portfolio 🔐
+# Eduardo Garcia | Cybersecurity Portfolio 🔐 ![Profile Views](https://komarev.com/ghpvc/?username=EdwardGarciaTV&label=Profile%20Views&color=0e75b6&style=for-the-badge) [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/03c30080-7771-42cc-9510-9c966b6f92a3/linked_in?t=tkjcan)
 
 ### SOC Operations • Threat Hunting • Incident Response • Vulnerability Management • Security Automation
 
